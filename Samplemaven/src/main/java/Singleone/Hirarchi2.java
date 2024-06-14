@@ -1,7 +1,7 @@
 package Singleone;
 
 public class Hirarchi2 extends Hirrach1{
-	public void displa2()
+	public void display2()
 	{
 		System.out.println("first child");
 	}
@@ -11,7 +11,7 @@ public class Hirarchi2 extends Hirrach1{
 		// TODO auto-generated method stub
 		Hirarchi2 obj=new Hirarchi2();
 		obj.display1();
-		obj.displa2();
+		obj.display2();
 	}
 
 }

@@ -1,10 +1,10 @@
 package Superkeyword;
 
 public class Childclasscontrr extends Paramtconstr {
-	public Childclasscontrr()
+	public Childclasscontrr()//constrctr
 	{
 		super(10,20);
-		System.out.println("hi");
+		System.out.println("non paramtrized constrcr or child ");
 		
 	}
 

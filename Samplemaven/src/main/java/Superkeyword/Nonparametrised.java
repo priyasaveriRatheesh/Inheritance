@@ -1,9 +1,10 @@
 package Superkeyword;
 
 public class Nonparametrised extends Parametrisedclss {
-	public void display()
+	public void display()//instnce methd
 	{
-		System.out.println("sum is");
+		
+		System.out.println("parametrised and non parametrised method");
 		super.add(10,20);
 	}
 

@@ -2,7 +2,7 @@ package Singleone;
 public class Multi3 extends Multi2{
 public void display3()
 {
-	System.out.println("child");
+	System.out.println(" i am child");
 }
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
