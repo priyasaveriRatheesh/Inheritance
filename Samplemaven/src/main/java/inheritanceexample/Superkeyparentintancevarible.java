@@ -1,9 +1,9 @@
 package inheritanceexample;
 
 public class Superkeyparentintancevarible {
-	{
-		String clr="green";
+	
+		String c="green";
 		
-	}
+	
 
 }

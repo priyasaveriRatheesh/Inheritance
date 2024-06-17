@@ -2,12 +2,13 @@ package inheritanceexample;
 
 public class Superchildinstancvarble extends Superkeyparentintancevarible 
 {
-	String clr="red";
+	String c="red";
 	public void display() 
 	{
+		System.out.println(super.c);
+		System.out.println(c);
+		
 	
-		System.out.println(clr);
-	// super(clr);
 	}
 		public static void main(String[] args) {
 			Superchildinstancvarble obj=new Superchildinstancvarble();
