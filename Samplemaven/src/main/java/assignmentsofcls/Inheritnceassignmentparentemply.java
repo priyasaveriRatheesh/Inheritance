@@ -1,4 +1,5 @@
 package assignmentsofcls;
+import java.util.Scanner;
 public class Inheritnceassignmentparentemply
 {
 	int basicpay;

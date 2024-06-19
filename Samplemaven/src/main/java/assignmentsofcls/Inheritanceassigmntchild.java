@@ -7,7 +7,7 @@ public class Inheritanceassigmntchild extends Inheritnceassignmentparentemply {
 	public void deductions(int hra,int pf)
 	{
 		this.hra=hra;
-		this.pf=pf;
+		pf=pf;
 	}
 public void calculate()
 {
