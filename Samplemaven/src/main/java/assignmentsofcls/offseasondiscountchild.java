@@ -1,4 +1,4 @@
-package assignmentsofcls;
+/*package assignmentsofcls;
 
 public class offseasondiscountchild  extends Onsesonpolyparent
 {
@@ -10,3 +10,4 @@ public class offseasondiscountchild  extends Onsesonpolyparent
 	
 	
 }
+*/
