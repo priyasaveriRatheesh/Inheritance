@@ -13,7 +13,5 @@ public class Arraylistcollection {
 		a.add(10.55);
 		a.add("kk");
 		System.out.println(a);
-
 	}
-
 }

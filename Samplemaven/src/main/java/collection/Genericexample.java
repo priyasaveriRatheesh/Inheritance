@@ -1,6 +1,6 @@
 package collection;
 
-import java.util.ArrayList;//non generic exmple
+import java.util.ArrayList;// generic exmple
 
 public class Genericexample {
 

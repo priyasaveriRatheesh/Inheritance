@@ -1,20 +1,19 @@
 package assignmentsofcls;
 
 public class Contractor extends Employe {
-	 int  payementperhour;
-	int workinhghours;	
- int totalsalary;
-public Contractor(int payementperhour,int workinhghours)
+
+public static void main(String[] args) 
 {
-this.payementperhour=payementperhour;
-this.totalsalary=workinhghours;
-}
-			 
-			@Override
-			public double calculatesalary()
-			{
-				int totalsalary=payementperhour * workinhghours;
-				 return totalsalary;
+	Contractor obj=new Contractor();obj.calculatesalary(800, 5);
+	obj.Fulltimeemploye();
 	
-			}
+}
+
+@Override
+public void calculatesalary(int payment, int time) {
+	this.payment=payment;
+	int contractorsalary=payment*time;
+	System.out.println(contractorsalary);
+	
+}
 }
