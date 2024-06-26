@@ -1,5 +1,5 @@
 package Interfaceexm;
 
 public interface assignmtRBI {
-public void recurentdeposit(int amount,int year,int rate);
+public void recurentdeposit(int amount,int duration,int rate);
 }

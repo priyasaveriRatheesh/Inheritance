@@ -10,7 +10,7 @@ int time;
 
 public void Fulltimeemploye()
 {
-	int fulltimesalary=this.payment*8;
+	int fulltimesalary=payment*8;
 	System.out.println(fulltimesalary);
 }
 }
