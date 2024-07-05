@@ -6,8 +6,9 @@ public class Constrcrprint {
 		System.out.println("hello priya");
 	}
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) 
+	{
+		
 		Constrcrprint obj=new Constrcrprint();
 	}
 

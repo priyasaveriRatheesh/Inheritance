@@ -1,7 +1,8 @@
 package polymorphism;
 
 public class Polychild extends Polyparent{
-	public void display() {
+	public void display()
+	{
 		System.out.println("childprint");
 		super.display("polymorphism");
 	}

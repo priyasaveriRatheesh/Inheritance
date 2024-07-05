@@ -1,9 +1,10 @@
 package methodsexample;
 
-public class Thiskeywrdinstncevar {
+public class Thiskeywrdinstncevar 
+{
 	String name;
 	int age;
-	public  Thiskeywrdinstncevar(String name,int age)
+	public Thiskeywrdinstncevar(String name,int age)
 		{
 		this.name=name;
 	this.age=age;
@@ -13,8 +14,9 @@ public class Thiskeywrdinstncevar {
 	{	System.out.println(name+"  "+age);
 	}
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) 
+	{
+	
 		Thiskeywrdinstncevar obj=new Thiskeywrdinstncevar("riya",29);
 		obj.display();
 	}

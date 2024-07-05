@@ -13,5 +13,6 @@ public class Superchildinstancvarble extends Superkeyparentintancevarible
 		public static void main(String[] args) {
 			Superchildinstancvarble obj=new Superchildinstancvarble();
 		obj.display();
+	
 	}
 }

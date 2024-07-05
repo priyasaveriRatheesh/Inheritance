@@ -18,7 +18,7 @@ public void display()
 	public static void main(String[] args) {
 		
 		Aggregationparent obj=new Aggregationparent("priya",29,"knpy",690523);
-		Aggregtinchild obj1=new Aggregtinchild("first",55,obj);//invoking regerebnce variable
+		Aggregtinchild obj1=new Aggregtinchild("first",55,obj);//invoking reference variable
 		obj1.display();
 			}
 

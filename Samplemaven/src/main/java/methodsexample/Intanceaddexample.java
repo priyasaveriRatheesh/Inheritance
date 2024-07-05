@@ -9,8 +9,9 @@ public class Intanceaddexample {
 		System.out.println(c);
 	}
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) 
+	{
+		
 		Intanceaddexample obj=new Intanceaddexample();
 		obj.add();
 	}

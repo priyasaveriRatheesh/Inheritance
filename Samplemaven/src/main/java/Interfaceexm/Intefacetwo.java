@@ -1,6 +1,7 @@
 package Interfaceexm;
 
-public interface Intefacetwo {
+public interface Intefacetwo 
+{
 	public void display2();
 
 }

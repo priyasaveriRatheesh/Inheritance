@@ -8,8 +8,9 @@ public class Returntypestaticmethd {
 		int sum=a+b;
 	return sum;
 	}
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) 
+	{
+		
 System.out.println(Returntypestaticmethd.add());
 	}
 

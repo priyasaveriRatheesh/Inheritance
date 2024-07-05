@@ -7,10 +7,12 @@ public class Returntyptwo {
 	return s;
 	}
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-	String 	a=Returntyptwo.name();
-	System.out.println(a);
+	public static void main(String[] args) 
+	{
+		System.out.println(Returntyptwo.name());
+		
+	/*String 	a=Returntyptwo.name();we can print in both ways
+	System.out.println(a);*/
 	}
 
 }

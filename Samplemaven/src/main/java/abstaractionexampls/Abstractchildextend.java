@@ -12,7 +12,8 @@ public class Abstractchildextend extends Abstractexmpl
 	}
 
 	@Override
-	public void display2() {
+	public void display2() 
+	{
 	System.out.println("abstarct");	// TODO Auto-generated method stub
 		
 	}

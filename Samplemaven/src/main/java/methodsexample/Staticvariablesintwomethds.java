@@ -14,8 +14,9 @@ public static void sub()
 	System.out.println(diff);
 }
 	
-public static void main(String[] args) {
-		// TODO Auto-generated method stub
+public static void main(String[] args) 
+{
+	
 	Staticvariablesintwomethds.add();
 	Staticvariablesintwomethds.sub();
 	}

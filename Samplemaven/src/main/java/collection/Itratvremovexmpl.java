@@ -14,12 +14,12 @@ public class Itratvremovexmpl
 			obj.add("red");
 			obj.add("pink");
 			obj.add("orange");
-			
+			System.out.println(obj);
 			
 			Iterator<String> it=obj.iterator();
 				while(it.hasNext())
 			{
-		//System.out.println(it.next());
+		System.out.println(it.next());
 			}
 it.remove();
 System.out.println(obj);

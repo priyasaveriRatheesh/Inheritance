@@ -8,8 +8,9 @@ public static void sub()
 	int sub=a-b;
 	System.out.println(sub);
 }
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) 
+	{
+		
 		Staticmethdsubtraction.sub();
 	}
 

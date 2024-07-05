@@ -14,7 +14,7 @@ public static void disply()
 }
 	public static void main(String[] args) 
 	{
-		Constrcrusage obj=new Constrcrusage(8,"saveri");
+		Constrcrusage obj=new Constrcrusage(7,"saveri");
 		Constrcrusage.disply();
 	}
 

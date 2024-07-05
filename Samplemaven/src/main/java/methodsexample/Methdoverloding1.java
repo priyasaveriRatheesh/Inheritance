@@ -12,8 +12,9 @@ public class Methdoverloding1 {
 		System.out.println(sum1);
 	}
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args)
+	{
+		
 		Methdoverloding1.add(10,20);
 		Methdoverloding1.add(10, 20, 30);
 	}

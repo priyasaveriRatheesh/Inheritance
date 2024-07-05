@@ -1,12 +1,13 @@
 package abstaractionexampls;
 
-public abstract class Abstractexmpl {
+public abstract class Abstractexmpl 
+{
 	
 public void display()
 {
 	System.out.println("this is nonabstract");
 }
-public abstract void  display2();
+public abstract void display2();
 }
 /*{
 

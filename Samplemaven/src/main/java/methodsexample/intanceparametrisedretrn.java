@@ -9,8 +9,9 @@ public class intanceparametrisedretrn {
 		return sum;
 	}
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) 
+	{
+		
 		intanceparametrisedretrn obj=new intanceparametrisedretrn();
 		System.out.println(obj.add());
 	}
