@@ -1,4 +1,4 @@
-package Interfaceexm;
+ package Interfaceexm;
 
 public class Childinterfaceown implements Myownparentinterface{
 	

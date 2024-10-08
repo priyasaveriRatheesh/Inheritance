@@ -5,7 +5,7 @@ public class Stringbuilderinsert {
 	public static void main(String[] args) 
 	{
 		StringBuilder obj=new StringBuilder(" Ratheesh ");
-		obj.insert(8,"priya");
+		obj.insert(9,"priya");
 		System.out.println(obj);
 
 	}

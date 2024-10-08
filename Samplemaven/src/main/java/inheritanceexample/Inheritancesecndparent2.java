@@ -1,4 +1,4 @@
-package inheritanceexample;
+ package inheritanceexample;
 
 public class Inheritancesecndparent2  extends Multiinherintaceparent1
 {

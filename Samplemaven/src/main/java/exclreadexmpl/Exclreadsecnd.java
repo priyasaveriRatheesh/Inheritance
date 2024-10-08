@@ -17,7 +17,7 @@ public class Exclreadsecnd {
 	public static String firstStringData(int row1,int cell1) throws IOException
 	
 	{
-		file=new FileInputStream("C:\\Users\\swathish\\OneDrive\\Desktop\\exceleg2.xlsx");
+		file=new FileInputStream("C:\\Users\\swathish\\Downloads\\excl read.xlsx");
 		book=new XSSFWorkbook(file);
 		sheet1=book.getSheet("MYSHEET");
 		XSSFRow r=sheet1.getRow(row1);
@@ -27,7 +27,7 @@ public class Exclreadsecnd {
 public static String firstIntegerData(int row1,int cell1) throws IOException
 	
 	{
-		file=new FileInputStream("C:\\Users\\swathish\\OneDrive\\Desktop\\exceleg2.xlsx");
+		file=new FileInputStream("C:\\Users\\swathish\\Downloads\\excl read.xlsx");
 		book=new XSSFWorkbook(file);
 		sheet1=book.getSheet("MYSHEET");
 		XSSFRow r=sheet1.getRow(row1);
